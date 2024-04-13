@@ -13,4 +13,4 @@ old_096:
   instant_rage: true
 ```
 
-https://cdn.discordapp.com/attachments/1228769241956614206/1228769242250219530/why-doesnt-scp-096-just-wear-a-mask-v0-9bv2szpgh4nb1.webp?ex=662d3f88&is=661aca88&hm=4affdbd52119857edc7c5e8b17f7c7c7cbd5287e46e1faf7a483074063f1b4a4&
+ ![](https://cdn.discordapp.com/attachments/1228769241956614206/1228769242250219530/why-doesnt-scp-096-just-wear-a-mask-v0-9bv2szpgh4nb1.webp)
