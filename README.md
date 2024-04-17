@@ -3,7 +3,7 @@
 # 096 InstantEnrage - SCP:SL
 Exiled SCP: SL Plugin that when you look at SCP-096 will instantly make SCP-096 angry
 
-This plugin is only compatible with [EXILED FRAMEWORK](https://github.com/Exiled-Team/EXILED) 8.8.1 +
+This plugin is only compatible with [Exiled Framework](https://github.com/Exiled-Team/EXILED) --- 8.8.1 +
 
 ## Configuration
 ```yaml
