@@ -1,4 +1,6 @@
-![Total Downloads](https://img.shields.io/github/downloads/THQuery/096-InstantEnrage/total)
+![Total Downloads](https://img.shields.io/github/downloads/THQuery/096-InstantEnrage/total) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/THQuery/096-InstantEnrage/graphs/commit-activity)
+<a href="https://github.com/THQuery/096-InstantEnrage/releases"><img src="https://img.shields.io/github/v/release/THQuery/096-InstantEnrage?include_prereleases&label=Release" alt="Releases"></a>
+<a href="https://discord.gg/PyUkWTg"><img src="https://img.shields.io/discord/656673194693885975?color=%23aa0000&label=EXILED" alt="Support"></a>
 
 # 096 InstantEnrage - SCP:SL
 Exiled SCP: SL Plugin that when you look at SCP-096 will instantly make SCP-096 angry
