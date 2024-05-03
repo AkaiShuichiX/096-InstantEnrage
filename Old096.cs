@@ -2,6 +2,7 @@
 using Exiled.API.Features;
 using Exiled.Events.EventArgs;
 using Exiled.Events.EventArgs.Scp096;
+using PlayerRoles.PlayableScps.Scp096;
 using UnityEngine;
 
 namespace Old096
@@ -26,7 +27,8 @@ namespace Old096
 
         private void OnAddingTarget(AddingTargetEventArgs ev)
         {
-            if (Config.InstantRage)
+            Log.Debug("Let Check Rage State");
+            if (Config.InstantRage && ev.Scp096.RageState != Scp096RageState.Enraged)
             {
                 Debug.Log("SCP - 096 - Instant Rage activated!");
                 ev.Scp096.Enrage();
